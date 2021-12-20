@@ -1,8 +1,7 @@
 # Hi there 👋
 ## I'm Gamingdy, python developer
 
-- 🐍 I'm currently learning python
-
+- 💻 I'm currently learning C++
 
 - 🥧 Was born in 2004, so I let you calculate my age :)
 
@@ -13,7 +12,7 @@
 
 ### I made a python module to search an image on google image, I will let you discover it
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamingdy&repo=image-search-python&theme=jolly&hide_border=true)](https://github.com/gamingdy/image-search-python)
+[![Image-search card](https://github-readme-stats.vercel.app/api/pin/?username=gamingdy&repo=image-search-python&theme=jolly&hide_border=true)](https://github.com/gamingdy/image-search-python)
 
 # All my stats
 
