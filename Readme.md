@@ -1,7 +1,5 @@
 # Hi there 👋
-## I'm Gamingdy, python developer
-
-- 💻 I'm currently learning C++
+## I'm Gamingdy
 
 - 🥧 Was born in 2004, so I let you calculate my age :)
 
