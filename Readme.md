@@ -66,4 +66,9 @@
   <a href="https://gamingdy.fr/" target="_blank" style="margin-right:5px">
       <img src="https://imgur.com/FO0gDVt.gif" alt="gif" width=88 height=31>
   </a>
+
+  <!-- Sofia Github -->
+  <a href="https://github.com/pavuchochek" target="_blank" style="margin-right:5px">
+      <img src="https://imgur.com/bfKA1Yh.gif" alt="gif" width=88 height=31>
+  </a>
 </div>
