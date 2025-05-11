@@ -24,6 +24,9 @@
 ![Gamingdy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gamingdy&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/gamingdy)
+
+
 # Some cool websites
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
